@@ -1,0 +1,7 @@
+# Ignore dataset and other large files
+PlantVillage/
+
+# Ignore model checkpoints (optional)
+*.h5
+*.pkl
+*.pt
