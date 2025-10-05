@@ -25,6 +25,7 @@ It includes two models — a **custom CNN** and a **VGG16-based transfer learnin
 
 ## 📂 Dataset
 The project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease).  
-Download it manually and place it inside a local folder named `PlantVillage/` (this folder is excluded from GitHub).
+Download it manually and place it inside a local folder named `PlantVillage/` .
+
 
 
